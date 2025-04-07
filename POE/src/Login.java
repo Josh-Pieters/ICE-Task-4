@@ -12,7 +12,7 @@ public class Login {
         this.lastName = lastName;
         this.storedUsername = username;
         this.storedPassword = password;
-        JOptionPane.showMessageDialog(null, "User successfully registered!");
+        
     }
 
     public boolean checkUserName()
