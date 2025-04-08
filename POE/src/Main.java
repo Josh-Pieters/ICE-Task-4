@@ -16,6 +16,8 @@ public class Main
         String lastName;
         String cellphoneNumber;
 
+        System.out.println("\n----------Registration----------");
+
         //First name Input and Validation
         do {
             System.out.println("Enter First Name: ");
